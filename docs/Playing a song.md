@@ -22,7 +22,7 @@ After [inviting Rythm into your server](/adding_rythm), you can get the party st
 
 ## 3. Start your music.
 
-  - Use the command `!play` to start your music.
+  - Use the command `r!p` to start your music.
   <Tabs
     defaultValue="ps"
     values={[
