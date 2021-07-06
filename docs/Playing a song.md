@@ -22,18 +22,18 @@ After [inviting Rythm into your server](/adding_rythm), you can get the party st
 
 ## 3. Start your music.
 
-  - Use the command `!play` to start your music.
+  - Use the command `r!p` to start your music.
   <Tabs
     defaultValue="ps"
     values={[
       {label: 'Play a Song', value: 'ps'},
       {label: 'Play a Playlist', value: 'pp'},
     ]}>
-    <TabItem value="ps"> To play a song, type <code>!play &lt;Song Name/Song URL&gt;</code><br/><br/>
+    <TabItem value="ps"> To play a song, type <code>r!p &lt;Song Name/Song URL&gt;</code><br/><br/>
       <img src="/docs/img/docs/playing-a-song/playsongname.png" alt="example-1"/>
       <img src="/docs/img/docs/playing-a-song/playsonglink.png" alt="example-2"/>
     </TabItem>
-    <TabItem value="pp"> To play a playlist, type <code>!play &lt;PlaylistURL&gt;</code><br/><br/>
+    <TabItem value="pp"> To play a playlist, type <code>r!p &lt;PlaylistURL&gt;</code><br/><br/>
       <img src="/docs/img/docs/playing-a-song/playplaylist.png" alt="example-pl"/>
     </TabItem>
   </Tabs>
