@@ -6,7 +6,7 @@ title: Commands
 
 :::info Note
 ### Always remember the following!
-- The default prefix of Rythm is `!`. If you have changed your prefix to something else, please use your prefix instead of `!`. If you forget your prefix, mention Rythm (`@Rythm#3722`).
+- The default prefix of DJ is `!`. If you have changed your prefix to something else, please use your prefix instead of `!`. If you forget your prefix, mention DJ (`@DJ#3722`).
 - **Never include `<>` in your messages when using a command!**
 - Time can be in different formats
    + Example: `100`, `1:50`, `2m30s`
@@ -15,19 +15,19 @@ title: Commands
 ## Song
 ---
 <!-- Song-related commands -->
-- **`!join`** - Summons the bot to the voice channel you are in.
+- **`!conect`** - Summons the bot to the voice channel you are in.
     - **Aliases:** `summon`
 ---
-- **`!play`** - Plays a song with the given name or url. [**More Info**](/play_song)
-    - **Usage:** `!play <link/query>`
-    - **Alias:** `p`
+- **`r!p`** - Plays a song with the given name or url. [**More Info**](/play_song)
+    - **Usage:** `r!p <link/query>`
+    - **Alias:** `r`
 ---
-- **`!playtop`** - Adds a song with the given name/url __on the top of the queue__.
-    - **Usage:** `!playtop <link/query>`
-    - **Aliases:** `pt`, `ptop`
+- **`r!ptop`** - Adds a song with the given name/url __on the top of the queue__.
+    - **Usage:** `r!ptop <link/query>`
+    - **Aliases:** `rt`, `ptop`
 ---
-- **`!playskip`** - Skips the current song and plays the song you requested.
-    - **Usage:** `!playskip <link/query>`
+- **`!r!pskip`** - Skips the current song and plays the song you requested.
+    - **Usage:** `r!pskip <link/query>`
     - **Aliases:** `ps`, `pskip`, `playnow`, `pn`
 ---
 - **`!search`** - Searches from [Youtube](https://www.youtube.com) for a song via your query and returns the top 10 results.
@@ -55,7 +55,7 @@ title: Commands
     - **Usage:** `!forward <time>`
     - **Alias:** `fwd`
 ---
-- **`!replay`** - Resets the progress of the current song.
+- **`!rer!p`** - Resets the progress of the current song.
 ---
 - **`!loop`** - Toggles looping for the current playing song.
     - **Alias:** `repeat`
